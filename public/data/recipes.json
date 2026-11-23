@@ -1,0 +1,27 @@
+[
+    {
+        "id": "recipe-001",
+        "name": "Supreme Pizza",
+        "description": "Make pizza night super duper out of this world with homemade pizza. This recipe is supreme with vegetables and two types of meat. Yum!",
+        "image": "/images/05c6487a015c43d6fa510e5f486c60e1ae00f1c4.png",
+        "totalTime": 84,
+        "servingSize": 4,
+        "ingredients": [
+            "1/4 batch pizza dough",
+            "2 tablespoons Last-Minute Pizza Sauce",
+            "10 slices pepperoni",
+            "1 cup cooked and crumbled Italian sausage",
+            "2 large mushrooms, sliced",
+            "1/4 bell pepper, sliced",
+            "1 tablespoon sliced black olives",
+            "1 cup shredded mozzarella cheese"
+        ],
+        "instructions": [
+            "Preheat the oven to 475°. Spray pizza pan with nonstick cooking or line a baking sheet with parchment paper.",
+            "Flatten dough into a thin round and place on the pizza pan.",
+            "Spread pizza sauce over the dough.",
+            "Layer the toppings over the dough in the order listed.",
+            "Bake for 8 to 10 minutes or until the crust is crisp and the cheese melted and lightly browned."
+        ]
+    }
+]
