@@ -4,7 +4,8 @@ The Jungle Cook is a recipe-themed website for creating, viewing, editing, and m
 
 ## Website
 
-**Live link:** [Add the deployed website URL here](WEB_LINK_PLACEHOLDER)
+**Live link:** 
+https://in-info-web4.luddy.indianapolis.iu.edu/~ccucuiet/N315/jungle-cook3/
 
 ## Features
 
